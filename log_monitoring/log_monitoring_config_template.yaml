@@ -13,7 +13,7 @@ api_key:
 ## The site of the Datadog intake to send Agent data to.
 ## Set to 'datadoghq.eu' to send data to the EU site.
 #
-# site: datadoghq.com
+site: datadoghq.com
 
 ## @param dd_url - string - optional - default: https://app.datadoghq.com
 ## The host of the Datadog intake server to send metrics to, only set this option
